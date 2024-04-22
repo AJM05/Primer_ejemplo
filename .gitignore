@@ -3,9 +3,9 @@
 *.csv
 
 *.xls
-*.xlsf7fog6f79cfy965de6rv765v6ibx
+*.xlsx
 
 # si quisiera ignorar una carpeta
-nomh89pnt87otb97676n679769g67bre_carpeta/
+nombre_carpeta/
 
 datos/*.json
